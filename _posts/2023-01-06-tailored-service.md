@@ -89,7 +89,8 @@ questioned how I could heal and move past in them. I ended up talking to Lucia
 GSN after the seminar. To be honest, I was kinda forced into it by a sister that
 summoned Lucia GSN, told me to talk, n then disappeared... So I didn't really
 know how to start but I shared about a relationship that I think God had
-particularly brought up during the seminar (related to [shaken]({{ site.baseurl }}/shaken)).
+particularly brought up during the seminar (related to [shaken]({% post_url
+2022-08-27-shaken %})).
 
 I'm very much an external processor, and I have a hard time processing
 complicated events if I'm not talking it out with other people (journaling

@@ -31,14 +31,15 @@ became used to it and they came naturally to me. But now… now, my days are
 colored with emotions and they make up a lovely painting. And that’s not even
 the best part.
 
-Like I had mentioned in the [sanctification]({{ site.baseurl }}/sanctification) post, I’ve been learning
-how to walk with God. This semester I stepped into official serving roles for
-the first time, in FCS and Soon (fellowship). It’s been such a blessed time,
-learning to rely on God and be in tune with how He wants to use me in these
-areas. Every time I go to a rehearsal, large group, or other event, I’m much
-more prayerful and mindful of listening to what God is saying. This heart
-posture is something that I hope to carry into every aspect of my life, but
-at least for now it’s been a great blessing.
+Like I had mentioned in the [sanctification]({% post_url
+2021-12-11-sanctification %}) post, I’ve been learning how to walk with God.
+This semester I stepped into official serving roles for the first time, in FCS
+and Soon (fellowship). It’s been such a blessed time, learning to rely on God
+and be in tune with how He wants to use me in these areas. Every time I go to
+a rehearsal, large group, or other event, I’m much more prayerful and mindful
+of listening to what God is saying. This heart posture is something that I hope
+to carry into every aspect of my life, but at least for now it’s been a great
+blessing.
 
 It’s impossible to list all the blessings I’ve been noticing in my life, but
 here are a couple:
