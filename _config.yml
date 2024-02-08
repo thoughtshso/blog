@@ -1,0 +1,17 @@
+# Site Build Settings
+
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown  # default Markdown renderer for Jekyll
+highlighter:         rouge  # default Ruby highlighter for Jekyll
+permalink:           /:title
+exclude:             [_posts/.template.md]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "active thoughts"
+description:	       "thinking, not suppressing"
+author:              "Hannah Oh"
+

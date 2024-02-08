@@ -1,0 +1,15 @@
+menu:
+- {name: 'all posts',               url: 'all-posts'}
+- {name: 'about',              url: 'about'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'facebook', link:   'https://www.facebook.com/hannahsooah'}
+- {icon: 'instagram', link:  'https://instagram.com/hannahsooah'}
+- {icon: 'envelope', link:   'mailto:0318sooah@gmail.com'}
+
+# Customize site text
+pagination:
+  next_page: 'newer'
+  previous_page: 'older'
+post_date_prefix: 'written on'
