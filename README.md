@@ -20,6 +20,7 @@ run `make clean` to remove generated files
 
 ## things to add later (maybe sooner):
 
+* change blog landing page
 * change font to be easier on the eyes and have more contrast (i don't like the
 current font)
 * personalize website with more color, a custom domain, a
@@ -29,3 +30,4 @@ current font)
 * add [encrypted posts](https://github.com/lilykonings/jekyll-password-protect)
 for backwards compatibility
 * look up a way to add short description under post title for preview
+* fill in story
