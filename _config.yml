@@ -1,10 +1,10 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            2
+paginate:            3
 
 # Build settings
-url:                 https://blog.hannahsooah.com/
+url:                 https://blog.hannahsooah.com
 markdown:            kramdown  # default Markdown renderer for Jekyll
 highlighter:         rouge  # default Ruby highlighter for Jekyll
 permalink:           /:title
