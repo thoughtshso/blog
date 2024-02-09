@@ -12,4 +12,5 @@ social:
 pagination:
   next_page: 'newer'
   previous_page: 'older'
+  all posts: 'view more'
 post_date_prefix: 'written on'

@@ -9,6 +9,8 @@ title: home
 
 <!-- Pagination links -->
 <div class="pagination">
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{/all-posts}">{{ site.data.settings.pagination.all_posts }}</a>
+<!--
   {% if paginator.previous_page %}
     <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
   {% else %}
@@ -19,4 +21,5 @@ title: home
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
   {% endif %}
+-->
 </div>
