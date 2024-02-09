@@ -63,7 +63,7 @@
   Masthead
 */
 
-.masthead{
+.masthead {
   height: 500px;
   margin: 5px 10px 10px;
   background-position: center;
@@ -72,13 +72,14 @@
   position: relative;
 }
 .masthead h2 {
+  text-align: center;
   bottom: 0;
   margin: 0;
   padding: 10px;
   position: absolute;
-  text-align: center;
 }
 .masthead h2 span {
+  text-align: center;
   display: inline-block;
   color: white;
   font: bold 24px/45px Helvetica, Sans-Serif;
@@ -86,7 +87,6 @@
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
   padding: 10px;
-  text-align: center;
 }
 .masthead span a {
   color: white;
