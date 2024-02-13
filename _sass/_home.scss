@@ -64,20 +64,22 @@
 */
 
 .masthead {
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
   background: no-repeat center center scroll;
   background-size: cover;
+  display: flex;
   position: relative;
-  height: 15rem;
-  max-width: $container-width;
+  width: 100%;
+  height: flex;
+  flex: 0 0 25%;
+  margin: 5px;
+  justify-content: center !important;
 }
 .masthead h2 {
+  align-items: center;
   text-align: center;
-  bottom: 0;
-  margin: 0;
-  padding: 10px;
   vertical-align: middle;
+  justify-content: center !important;
+  color: grey;
 }
 .masthead h2 span {
   display: inline-block;
@@ -95,6 +97,7 @@
 }
 .container {
   width: 100%;
+  max-width: $container-width;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
