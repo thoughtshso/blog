@@ -21,4 +21,6 @@ run `make clean` to remove generated files
 current font)
 * [google analytics](https://www.google.com/analytics/) support
 * look up a way to add [short description](https://github.com/mmistakes/minimal-mistakes/issues/1733) under post title for preview
+* add [encrypted posts](https://github.com/lilykonings/jekyll-password-protect)
+for backwards compatibility
 * fill in story (currently hidden)
