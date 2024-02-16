@@ -8,7 +8,7 @@ nothing much to it, i just got sick of wordpress UI and ads so i decided to try 
 
 clone this repo
 
-install necessary dependencies with `bundle install` and run `make` in a terminal
+install necessary dependencies with `make init` and run `make` in a terminal
 
 * the local version of the site should be up and running at [http://localhost:4000/](http://localhost:4000/)
 
