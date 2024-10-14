@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: story
 title: "the aftermath"
 author: "Hannah Oh"
 hidden: true
@@ -26,13 +26,15 @@ Ultimately, I came to realize that God wanted me to confront and address the ent
 
 ### 2023
 
-With that new commitment to God, I opened up to a staff member about what happened, who advised me to reach out to an older sister to walk with me through this journey. Although I was hesitant at first, I invited them into this journey because I knew I would need wiser counsel. Although I was attending church, I didn't really know the sisters there and the college ministry at that church was entirely male with the exception of one other college student, so I got connected with a sister who's working at a different church and we started meeting on a weekly basis so that she could walk with me.
+With that new commitment to God, I opened up to a staff member about what happened, who advised me to reach out to an older sister to walk with me through this journey. Although I was hesitant at first, I invited them into this journey because I knew I would need wiser counsel. Although I was attending church, I didn't really know the sisters there and the college ministry at that church was entirely male with the exception of one other college student, so I got connected with a sister from another church and we started meeting on a weekly basis so that she could walk with me.
 
 One of the things that she suggested when I began to meet with her was to reach out to a pastor that had been a mentor figure for the brother in his life before so that the pastor could reach out to him and walk with him. The end goal was to follow the Matthew 18 example of pursuing reconciliation.
 
 A lot of my journey during 2023 was continually surrendering to God and allowing Him to guide me in the process of healing and learning to forgive. I met with my mentor weekly and spent a lot of time in solitude with God, reading the Word, journaling, and crying at times as my way of wrestling with God. During this time, there were people reaching out to the brother as well, both the pastor and another one of his friends that knew the entire situation.
 
 In August, I ended up going to Korea for three months and this issue was placed on the backburner as I didn't have people to remind me or keep me accountable to continue pursuing it. I realized after I got back to the bay in November that I hadn't thought about it in a long while, and how freeing it was to have run away from it. However, I knew that it was unfinished work that God would continue.
+
+In December, I learned that a staff from the ministry had been asking around about what had happened with me and that brother, and I also learned that the brother had been banned from all of this college ministry's events. The staff had asked previous staff and other students if they knew what happened, but she had never reached out to me. During a retreat, I approached her to ask if I could share my story because I was deeply uncomfortable with the fact that she was listening to what other people had to say about a very sensitive area of my life, and yet didn't have my perspective of what had happened. I told her my side of what happened, 
 
 <!-- button -->
 <div class="pagination">
