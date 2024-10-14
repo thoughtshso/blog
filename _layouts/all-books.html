@@ -1,0 +1,11 @@
+---
+layout: default
+title: all-books
+---
+
+{% for post in site.posts %}
+  {% if post.categories contains page.category %}
+    {% include featured-book.html %}
+  {% endif %}
+{% endfor %}
+

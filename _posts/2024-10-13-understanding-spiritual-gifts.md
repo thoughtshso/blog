@@ -5,6 +5,7 @@ author: "Sam Storms"
 hidden: true
 categories: book
 tags: book
+image: spiritual-gifts.jpg
 ---
 
 ## Part 1: The Nature, Purpose, and Prayerful Pursuit of Spiritual Gifts
