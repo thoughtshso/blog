@@ -5,6 +5,7 @@ author: "Rachael Denhollander"
 hidden: true
 categories: book
 tags: book
+image: girl-worth.jpg
 ---
 
 "[My mom] was protected because my dad loved." (12, 6)
