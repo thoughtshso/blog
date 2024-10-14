@@ -39,6 +39,30 @@ image: wounded-heart.jpg
 "The stories of my friends cry out for healing, for justice, for the day when all tears will be wiped away and all wrongs avenged." (xxiii, 3)
 
 ## Part One: The Dynamics of Abuse
+#### The Reality of a War: Facing the Battle
+"The process of entering the past will disrupt life---or, at least, the existence that masquerades as life. The ease of quiet denial that allows the person to be a pleasant but vacuous doormat or an articulate but driven Bible study leader will be replaced by tumult, fear, confusion, anger, and change." (4, 4)
+
+"What is the point in pursuing firm hope and lively joy? The answer is simple: to live out the gospel. The reason for entering the struggle is *a desire for more, a taste of what life and love could be if freed from the dark memories and deep shame*." (5, 3)
+
+"*To honor what God has called us to be is the reason a man or woman chooses the path of change*." (6, 2)
+
+"*There is a deep reluctance to begin the process of change by admitting that damage has occured.*" (7, 2)
+
+"the potential for minimization or feeling weird for being damaged makes the potential for change even more difficult for those more subtly abused than for those more severely abused." (10, 3)
+
+"Betrayal by an intimate, deeply trusted companion is almost too much for the soul to endure. The victim does not want to face that the perpetrator may have been a person with access to the deepest recesses of his or her soul, a bearer of a key that no one else possessed." (13, 3)
+
+"The fearful and fallen heart does not want to anguish over the loss of safety and nurturance; therefore, the damage is seemingly diminished in the relief that the perpetrator was not someone closer or that the damage could have been more severe." (13, 3)
+
+"All excuses should be silenced; the perpetrator committed a crime against the abused person's body and soul." (14, 2)
+
+"But in every case of abuse, the dignity and beauty of the soul have been violated." (14, 3)
+
+"damage will be *in direct proportion to the degree that it disrupts the protection and nurturance of the parental bond*." (14, 4)
+
+"When abuse is perpetrated, it sets into motion the tremors of an internal earthquake that requires a strong and nurturant environment to quell." (14, 4)
+
+"*The victim's struggle to trust will be proportionately related to the extent her parent(s) failed to protect and nurture her as a child*." (15, 2)
 
 ` `  
 ` `  
