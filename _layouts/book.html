@@ -11,6 +11,9 @@ layout: default
     {% include post-date.html %}
   {% endif %}
   -->
+  {% if page.author %}
+    {% include author.html %}
+  {% endif %}
   {% if page.image %}
     <div class="featured-image">
       <img src="{{ site.url }}/assets/img/books/{{ page.image }}">

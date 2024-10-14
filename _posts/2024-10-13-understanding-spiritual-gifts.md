@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: "Understanding Spiritual Gifts"
 author: "Sam Storms"
 hidden: true
