@@ -6,11 +6,6 @@ layout: default
   <h1>
     {{ page.title }}
   </h1>
-  <!--
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
-  -->
   {% if page.author %}
     {% include author.html %}
   {% endif %}
@@ -22,4 +17,7 @@ layout: default
   <article>
     {{ content }}
   </article>
+  {% if site.hide_post_date != true %}
+    {% include finish-date.html %}
+  {% endif %}
 </div>

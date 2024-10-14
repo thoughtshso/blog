@@ -15,4 +15,5 @@ pagination:
   previous_page: 'older'
   all_posts: 'view more'
 post_date_prefix: 'written on'
+finish_date_prefix: 'finished on'
 author_prefix: 'by'
