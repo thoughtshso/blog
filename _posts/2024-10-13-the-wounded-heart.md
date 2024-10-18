@@ -39,7 +39,7 @@ image: wounded-heart.jpg
 "The stories of my friends cry out for healing, for justice, for the day when all tears will be wiped away and all wrongs avenged." (xxiii, 3)
 
 ## Part One: The Dynamics of Abuse
-#### [Chapter 1] The Reality of a War: Facing the Battle
+#### [Chapter 1] the reality of a war: facing the battle
 "The process of entering the past will disrupt life---or, at least, the existence that masquerades as life. The ease of quiet denial that allows the person to be a pleasant but vacuous doormat or an articulate but driven Bible study leader will be replaced by tumult, fear, confusion, anger, and change." (4, 4)
 
 "What is the point in pursuing firm hope and lively joy? The answer is simple: to live out the gospel. The reason for entering the struggle is *a desire for more, a taste of what life and love could be if freed from the dark memories and deep shame*." (5, 3)
@@ -91,8 +91,90 @@ image: wounded-heart.jpg
 
 "Shame is experienced before the one I've entitled or given the right to judge me. *[...]* To give that privilege *[...]* to anyone other than God is idolatry." (32, 4)
 
+#### [Chapter 3] Deflection: The Clash with Contempt
+"Shame is a phenomenon of the eyes. The eyes usually drop and the shoulders slump whne one feels shame." (39, 3)
+
+"The first option, self-contempt, and the second, other-centered contempt, though different in form, are similar in function." (39, 3)
+
+**Very severe contempt** (physically destructive): "Very severe contempt is seen in a desire to do physical harm to oneself or another. It is the desire to destroy, or at least damage through wanton disregard, the physical needs and limits of the human frame. *[...] the body is punished for existing and wanting*." (40, 4)
 ` `  
+**Moderately severe contempt** (personally destructive): "Violent thoughts, words, or images are like a slashing knife that bleeds the soul of life." (41, 3)
 ` `  
+**Mildly severe contempt** (critically evaluative): "The sexually abused woman often finds ample opportunity to destroy her enjoyment of being a woman through negative evaluations of her face, body, clothing, or manner of relating---especially in light of comparisons to other women. An attractice woman may harbor deep hatred for her own body and still be criticially evaluating the beauty of rivals." (42, 3)
+` `  
+**Least severe contempt** (relationally uncomfortable): "The first stirring of aliveness or passion in contact with another feels like a venom that may take both parties into a destructive spiral of lust or revenge." (43, 2)
+
+"Contempt, in any form, operates for a purpose: almost always to protect the user from damaging others or replicating the past abuse that wounded her soul." (43, 2)
+
+"Contempt serves us in at least four ways: It diminishes our shame, it deadens our longings, it makes us feel in control, and it distorts the real problem." (44, 2)
+` `  
+**diminishes shame**:"Contempt either blinds the eyes of the observer (other-centered contempt) or turns the eyes of the one shamed away from the one who has observed (self-contempt). In either case, the effect is the same: The intense experience of shame has been diminished." (44, 3)
+` `  
+**deadens longings**: "*For the woman or man who has been abused, one of the greateest enemies of the soul is the longing for intimacy.* (45, 2)
+` `  
+"To feel good in a relationship with another, like no other experience, opens the door to past horror and future terror." (45, 2)
+` `  
+"Many women who have been abused end up in tragic relationships in which they are revictimized. One factor involed in that choice is the unconscious comitment to find people who will guarantee loss, so that hope is never deeply stirred." (45, 4)
+` `  
+"As long as I trun my condemnation against myself, I block the potential of your movement towward me and my longing for you to care." (45, 5)
+` `  
+**provides the illusion of control**: "*As long as I believe there is something I can do about my problem, then I am not constrained to feel hopeless.* A contemptuous explanation provides a direction to pursue to regain control over my emptiness." (47, 3)
+` `  
+**distorts the real problem**: "Self-contempt in particular is Satan's counterfeit for conviction over sin." (48, 3)
+` `  
+"Those deficiencies do not get to the heart of his radical selfishness that protectived him from responding to her rage." (48, 4)
+
+#### [Chapter 4] The War Zone: Strategies for Abuse
+"Chances are, however, that the two factors that are essential to a happy home were absent in the victim's. The first factor is a sense of being enjoyed for who one is rather than for what one does. Many abause victims were enjoyed for being the adultified child, but that kind of appreciation leaves the hungry heart untouched. A second factor is a respect of one's being that permits the opportunity to develop uniqueness and separateness from other members of the family." (53, 3)
+
+"It is typical for the abused daughter to be singled out, often before the abuse, as the one who is expected to function as a "little adult."" (53, 4)
+
+"When asked why she did not tell her mother, she quietly sighed, "It would have meant months of picking up the pieces. I felt as if I had enough to cope with in saying no to the abuser."" (54, 1)
+
+"Many abused individuals were never granted privacy of space, let alone thought or feeling." (54, 5)
+
+"The denial or rejection of emotions or thoughts violates the privacy and sanctity of a child's inner world. A child likely will question the validity of her perception, making the cost of trusting her intuition exorbitantly high." (55, 2)
+
+"So far, the home of the victim has produced relational hunger, a sense of being needed but nevertheless demeaned, while making it difficult for the child to trust her perceptions and feelings." (55, 3)
+
+"The scene is set for abuse. The child is (to some degree) empty, alone, committed to pleasing, boundaryless, burdened, and bound to a family or a parent whose desire becomes the bread of hope for the hungry child. The two key words are *empty* and *dependent*." (55, 4)
+
+"Sould deadness--or a heart dulled to its own pain---and a hypervigilant, poised alertness are not compatile partners in the dance of life. In order to live in the inherent contradiction, the child or adolescent must develop a split between the two (or more) antithetical positions, thus existing as two different people: an inner person who quietly and unobtrusively stores what is most precious away from the sight of a dangerous world; and a public person who adopts the manner, dress, voice,and face that others who distribute the bounty of life to be displayed." (56, 2)
+
+"Survivial requires fitting in, and to fit in means to live a life of torment. *The experience of being profoundly used and let down by someone we trusted and relied on sears the hope that relationship can be purely enjoyed*." (56, 3)
+
+"Such compliance falsely implicates her as a willing participant in her own demise. The advantage in understanding hte process of abuse is that it frees the abused person from unnecessary guilt for compliance and offers categories for understanding events that evoked confusion and contempt." (56, 3)
+
+##### Stages of Sexual Abuse:
+**Stage 1: Development of Intimacy and secrecy**
+
+"It must be remembered that the setup itself, even if the abuser never moves beyond Stage 1 (though it is rare for him not to), is severely damaging to the victim's soul." (58, 3)
+
+"The kindness is cruelty; the warmth, violating. But the unsuspecting child or adolescent feels relationally alive and nourished, as he or she has never been before." (58, 4)
+
+"Secrecy, at least at first, is confined to the privileges of intimacy and deepens the "special" relationship that is beginning. Consequently, the victim tastes the first luscious vite of grace, a free gift of life with no obligation to perform. the result will be increased hope and hunger, a dropping of ancient defenses, a sprightly responsibeness that brings to the soul the first sense of femininity or masculinity." (59, 2)
+
+"Stage 1 produces *a desire for more*, a hope that spring is ahead." (59, 3)
+
+"*Relational pleasure* in enhanced through the bonding of secrecy and privilege." (59, 3)
+
+**Stage 2: Physical Contact That Appears Appropriate**
+
+"Touch enhances the pleasure of relational bonding, and relational intimacy gives meaning and vibrancy to physical contact." (60, 1)
+
+"The child or adolscent's desire for physical touch is not in any shape or form sexual" (60, 2)
+
+"The gentle, relational touch quiets the soul and invites the recipient to relax in the warm strength of another; pleasure, comfort, nourishment, and trust are wedded together in a delightful mixture that deepens and sweetens the taste of life and passion." (60, 4)
+
+"The memories of this stage are hard for the abuse victim to recall without an awful combination of shame and confusion." (61, 2)
+
+"Whether the tender touch occured before or after the physical abuse, in many cases the effect will be the same: comfort and enjoyment. And the questions remain: "Why did I allow myself to trust?" "Why did I allow myself to want a man who would [or did] abuse me?"" (61, 4)
+
+"When the overt sexual abuse occured, she was already silenced by her sense of complicity. Didn't she enjoy the privilege? Hadn't she responded to the closeness of the nonsexual touch? She was framed, and she accepted the penalty of her supposed crime." (62, 2)
+
+**Stage 3: Sexual Abuse Proper**
+
+"*Sexual abuse is the final blow that sabotages the soul in a climactic betrayal, mocking the enjoyment of relationship and pouring contempt on the thrill of passion.*" (63,3)
 
 ---
 
