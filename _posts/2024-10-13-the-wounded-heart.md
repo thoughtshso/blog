@@ -79,11 +79,11 @@ image: wounded-heart.jpg
 
 "*Legitimate shame exposes depravity, and illegitimate shame shines a light on some element of dignity*." (27, 1)
 
-"Her dignity was assaulted, and the horror of the abuse was intertwined with the unger for an advocate who would tenderly wash her wounds and comfort her." (28, 4)
+"Her dignity was assaulted, and the horror of the abuse was intertwined with the hunger for an advocate who would tenderly wash her wounds and comfort her." (28, 4)
 
 "Longings and shame were wed to her sense of being a woman whose only worth was being used for someone else's pleasure." (28, 5)
 
-"A godly response in the face of abuse is the grieve---for the perpetrator's sin and for the damage done to our soul; but the natural response is to cower in shame, condemning our own soul for being so foolish as to hope, want, or risk." (29, 1)
+"A godly response in the face of abuse is to grieve---for the perpetrator's sin and for the damage done to our soul; but the natural response is to cower in shame, condemning our own soul for being so foolish as to hope, want, or risk." (29, 1)
 
 "It is the terror that if our dark soul is discovered, we will never be enjoyed, nor desired, nor pursued by anyone." (31, 5)
 

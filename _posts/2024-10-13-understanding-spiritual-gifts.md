@@ -20,7 +20,7 @@ image: spiritual-gifts.jpg
 "Whatever gifts we end up receiving, whatever ministries or expressions of service in the church in which we succeed, this was God's doing, not ours. It was his decision, not ours." (15, 5)
 
 #### Chapter 2: Spiritual Gifts: What Are They, and Why Does God Give Them?
-"A spiritual gift is when hte Holy Spirit manifests his presence and imparts his power into and through indvidiual believers to enable them to exceed the limitations of their finite humanity so that they might faithfully and effectively fulfill certain ministry tasks for the building up of the body of Christ." (20, 3)
+"A spiritual gift is when the Holy Spirit manifests his presence and imparts his power into and through indvidiual believers to enable them to exceed the limitations of their finite humanity so that they might faithfully and effectively fulfill certain ministry tasks for the building up of the body of Christ." (20, 3)
 
 "The energizing and sanctifying work of the indwelling Spirit is the grace of God." (25, 2)
 
