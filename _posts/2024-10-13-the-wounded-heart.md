@@ -145,7 +145,7 @@ image: wounded-heart.jpg
 
 "Such compliance falsely implicates her as a willing participant in her own demise. The advantage in understanding hte process of abuse is that it frees the abused person from unnecessary guilt for compliance and offers categories for understanding events that evoked confusion and contempt." (56, 3)
 
-##### Stages of Sexual Abuse:
+#### Stages of Sexual Abuse:
 **Stage 1: Development of Intimacy and secrecy**
 
 "It must be remembered that the setup itself, even if the abuser never moves beyond Stage 1 (though it is rare for him not to), is severely damaging to the victim's soul." (58, 3)
@@ -175,6 +175,28 @@ image: wounded-heart.jpg
 **Stage 3: Sexual Abuse Proper**
 
 "*Sexual abuse is the final blow that sabotages the soul in a climactic betrayal, mocking the enjoyment of relationship and pouring contempt on the thrill of passion.*" (63,3)
+
+"*The tragedy of abuse is that the enjoyment of one's body becomes the basis of a hatred of one's soul.*" (64, 1)
+
+"It is difficult to describe the paradoxical experience of ambivalence. To have one strong emotion (terror) and another equally powerful feeling (desire) seems inconceivable." (64, 3)
+
+"The confluence of antithetical emotional currents makes the victim feel powerless, crazy, and ashamed." (65, 1)
+
+"The horror of Stage 3 psychological interaction is its wicked subtlety. It often lingers quietly in the mind of the victim as a gift rather than a violation." (66, 4)
+
+**Stage 4: Maintenance of the Abuse and Secrecy through Threats and Privileges**
+
+"Unlike the first stage, however, the glory days are gone forever." (67, 3)
+
+"The child that is set apart for abuse is usually hated for his or her privileges by the other siblings. The child who feels different because of the abuse is then even further alienated due to the sibling jealousy." (68, 2)
+
+"The silence and continued compliance intensifies the victim's resolve to deaden all feelings and find some way to endure, to urvive the assault of his or her soul." (68, 3)
+
+"Victims often concoct an image of the past as tranquil and happy until it actually becomes true in their mind. The illusion of a good home and loving parents satisfies the curiosity of others and quiets the crippling pain of the past." (68, 4)
+
+"The victim's effectiveness in the world doesn't compare to the power the Spirit of God could produce if her heart was His." (69, 1)
+
+## Part Two: The Damage of Abuse
 
 ---
 
