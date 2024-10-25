@@ -65,7 +65,7 @@ image: wounded-heart.jpg
 "*The victim's struggle to trust will be proportionately related to the extent her parent(s) failed to protect and nurture her as a child*." (15, 2)
 
 #### [Chapter 2] Facing the Enemy: Shame, Brokenness, and Sanctification
-"*The enemy, or so it feels, is the passion to be logvingly pursued and nourishingly touched by a person whose heart is utterly disposed to do us good.*" (19, 2)
+"*The enemy, or so it feels, is the passion to be lovingly pursued and nourishingly touched by a person whose heart is utterly disposed to do us good.*" (19, 2)
 
 "The enemy is *sin*, that fallen, autonomous striving for life that refuses to bow to God. *The enemy is the internal reality that will not cry out to God in humble, broken dependence*." (19, 4)
 
@@ -92,7 +92,7 @@ image: wounded-heart.jpg
 "Shame is experienced before the one I've entitled or given the right to judge me. *[...]* To give that privilege *[...]* to anyone other than God is idolatry." (32, 4)
 
 #### [Chapter 3] Deflection: The Clash with Contempt
-"Shame is a phenomenon of the eyes. The eyes usually drop and the shoulders slump whne one feels shame." (39, 3)
+"Shame is a phenomenon of the eyes. The eyes usually drop and the shoulders slump when one feels shame." (39, 3)
 
 "The first option, self-contempt, and the second, other-centered contempt, though different in form, are similar in function." (39, 3)
 
@@ -110,13 +110,13 @@ image: wounded-heart.jpg
 ` `  
 **diminishes shame**:"Contempt either blinds the eyes of the observer (other-centered contempt) or turns the eyes of the one shamed away from the one who has observed (self-contempt). In either case, the effect is the same: The intense experience of shame has been diminished." (44, 3)
 ` `  
-**deadens longings**: "*For the woman or man who has been abused, one of the greateest enemies of the soul is the longing for intimacy.* (45, 2)
+**deadens longings**: "*For the woman or man who has been abused, one of the greatest enemies of the soul is the longing for intimacy.* (45, 2)
 ` `  
 "To feel good in a relationship with another, like no other experience, opens the door to past horror and future terror." (45, 2)
 ` `  
-"Many women who have been abused end up in tragic relationships in which they are revictimized. One factor involed in that choice is the unconscious comitment to find people who will guarantee loss, so that hope is never deeply stirred." (45, 4)
+"Many women who have been abused end up in tragic relationships in which they are revictimized. One factor involed in that choice is the unconscious commitment to find people who will guarantee loss, so that hope is never deeply stirred." (45, 4)
 ` `  
-"As long as I trun my condemnation against myself, I block the potential of your movement towward me and my longing for you to care." (45, 5)
+"As long as I turn my condemnation against myself, I block the potential of your movement towward me and my longing for you to care." (45, 5)
 ` `  
 **provides the illusion of control**: "*As long as I believe there is something I can do about my problem, then I am not constrained to feel hopeless.* A contemptuous explanation provides a direction to pursue to regain control over my emptiness." (47, 3)
 ` `  
@@ -125,7 +125,7 @@ image: wounded-heart.jpg
 "Those deficiencies do not get to the heart of his radical selfishness that protectived him from responding to her rage." (48, 4)
 
 #### [Chapter 4] The War Zone: Strategies for Abuse
-"Chances are, however, that the two factors that are essential to a happy home were absent in the victim's. The first factor is a sense of being enjoyed for who one is rather than for what one does. Many abause victims were enjoyed for being the adultified child, but that kind of appreciation leaves the hungry heart untouched. A second factor is a respect of one's being that permits the opportunity to develop uniqueness and separateness from other members of the family." (53, 3)
+"Chances are, however, that the two factors that are essential to a happy home were absent in the victim's. The first factor is a sense of being enjoyed for who one is rather than for what one does. Many abuse victims were enjoyed for being the adultified child, but that kind of appreciation leaves the hungry heart untouched. A second factor is a respect of one's being that permits the opportunity to develop uniqueness and separateness from other members of the family." (53, 3)
 
 "It is typical for the abused daughter to be singled out, often before the abuse, as the one who is expected to function as a "little adult."" (53, 4)
 
@@ -139,7 +139,7 @@ image: wounded-heart.jpg
 
 "The scene is set for abuse. The child is (to some degree) empty, alone, committed to pleasing, boundaryless, burdened, and bound to a family or a parent whose desire becomes the bread of hope for the hungry child. The two key words are *empty* and *dependent*." (55, 4)
 
-"Sould deadness--or a heart dulled to its own pain---and a hypervigilant, poised alertness are not compatile partners in the dance of life. In order to live in the inherent contradiction, the child or adolescent must develop a split between the two (or more) antithetical positions, thus existing as two different people: an inner person who quietly and unobtrusively stores what is most precious away from the sight of a dangerous world; and a public person who adopts the manner, dress, voice,and face that others who distribute the bounty of life to be displayed." (56, 2)
+"Soul deadness--or a heart dulled to its own pain---and a hypervigilant, poised alertness are not compatible partners in the dance of life. In order to live in the inherent contradiction, the child or adolescent must develop a split between the two (or more) antithetical positions, thus existing as two different people: an inner person who quietly and unobtrusively stores what is most precious away from the sight of a dangerous world; and a public person who adopts the manner, dress, voice,and face that others who distribute the bounty of life to be displayed." (56, 2)
 
 "Survivial requires fitting in, and to fit in means to live a life of torment. *The experience of being profoundly used and let down by someone we trusted and relied on sears the hope that relationship can be purely enjoyed*." (56, 3)
 
@@ -152,7 +152,7 @@ image: wounded-heart.jpg
 
 "The kindness is cruelty; the warmth, violating. But the unsuspecting child or adolescent feels relationally alive and nourished, as he or she has never been before." (58, 4)
 
-"Secrecy, at least at first, is confined to the privileges of intimacy and deepens the "special" relationship that is beginning. Consequently, the victim tastes the first luscious vite of grace, a free gift of life with no obligation to perform. the result will be increased hope and hunger, a dropping of ancient defenses, a sprightly responsibeness that brings to the soul the first sense of femininity or masculinity." (59, 2)
+"Secrecy, at least at first, is confined to the privileges of intimacy and deepens the "special" relationship that is beginning. Consequently, the victim tastes the first luscious vite of grace, a free gift of life with no obligation to perform. The result will be increased hope and hunger, a dropping of ancient defenses, a sprightly responsiveness that brings to the soul the first sense of femininity or masculinity." (59, 2)
 
 "Stage 1 produces *a desire for more*, a hope that spring is ahead." (59, 3)
 
@@ -190,7 +190,7 @@ image: wounded-heart.jpg
 
 "The child that is set apart for abuse is usually hated for his or her privileges by the other siblings. The child who feels different because of the abuse is then even further alienated due to the sibling jealousy." (68, 2)
 
-"The silence and continued compliance intensifies the victim's resolve to deaden all feelings and find some way to endure, to urvive the assault of his or her soul." (68, 3)
+"The silence and continued compliance intensifies the victim's resolve to deaden all feelings and find some way to endure, to survive the assault of his or her soul." (68, 3)
 
 "Victims often concoct an image of the past as tranquil and happy until it actually becomes true in their mind. The illusion of a good home and loving parents satisfies the curiosity of others and quiets the crippling pain of the past." (68, 4)
 
