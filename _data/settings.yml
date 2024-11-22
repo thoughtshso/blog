@@ -1,6 +1,6 @@
 menu:
-- {name: 'all posts',               url: 'all-posts'}
-- {name: 'books',              url: 'books'}
+  # - {name: 'all posts',               url: 'all-posts'}
+  # - {name: 'books',              url: 'books'}
 - {name: 'about',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

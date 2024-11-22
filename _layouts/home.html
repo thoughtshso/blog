@@ -5,11 +5,3 @@ title: home
 
 {% include masthead.html %}
 
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
-
-<!-- View all posts button -->
-<div class="pagination">
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}/all-posts">{{ site.data.settings.pagination.all_posts }}</a>
-</div>
