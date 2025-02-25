@@ -110,13 +110,13 @@ image: wounded-heart.jpg
 ` `  
 **diminishes shame**:"Contempt either blinds the eyes of the observer (other-centered contempt) or turns the eyes of the one shamed away from the one who has observed (self-contempt). In either case, the effect is the same: The intense experience of shame has been diminished." (44, 3)
 ` `  
-**deadens longings**: "*For the woman or man who has been abused, one of the greatest enemies of the soul is the longing for intimacy.* (45, 2)
+**deadens longings**: "*For the woman or man who has been abused, one of the greatest enemies of the soul is the longing for intimacy.*" (45, 2)
 ` `  
 "To feel good in a relationship with another, like no other experience, opens the door to past horror and future terror." (45, 2)
 ` `  
 "Many women who have been abused end up in tragic relationships in which they are revictimized. One factor involed in that choice is the unconscious commitment to find people who will guarantee loss, so that hope is never deeply stirred." (45, 4)
 ` `  
-"As long as I turn my condemnation against myself, I block the potential of your movement towward me and my longing for you to care." (45, 5)
+"As long as I turn my condemnation against myself, I block the potential of your movement toward me and my longing for you to care." (45, 5)
 ` `  
 **provides the illusion of control**: "*As long as I believe there is something I can do about my problem, then I am not constrained to feel hopeless.* A contemptuous explanation provides a direction to pursue to regain control over my emptiness." (47, 3)
 ` `  
