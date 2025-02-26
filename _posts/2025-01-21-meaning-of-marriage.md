@@ -83,9 +83,23 @@ image: a.jpg
 
 "This means that friendships are discovered more than they are created at will. They arise between people who discover that they have common interests in and longings for the same things." (113, 1)
 
-"Any two Christians, with anything else but a common faith in Christ, can have a robust friendship, helping each other on their journey toward the new creation, as well as doing ministry together in the world.
-"They do it through spiritual transparency. Christian friends are not only to honestly confess their own sense to each other (James 5:16), but they are to lovingly point out their friends since if he or she is blind to them (Romans 15:14). You should give your Christian friends “hunting licenses“ to confront you if you are failing to live in line with your commitments (Galatians 6:1). Christian friends are to stir one another up, even provoking one another to get them off dead center (Hebrews 10:24). This isn’t to happen infrequently but should happen at a very concrete level every day (Hebrews 3:13). Christian friends admit wrongs, offer or ask forgiveness (Ephesians 4:32), and take steps to reconcile when one disappoints another (Matthew 5:23ff; 18:15 ff).
-"The other way is spiritual constancy. Christian friends bear each other’s burdens (Galatians 6:2). They should be there for each other through thick and thin (1 Thessalonians 5:11, 14–15), sharing their goods and their very lives with each other if there is need (Hebrews 13:16; Philippians 4:14; 2 Corinthians 9:13). Friends must encourage each other through honor and affirmation (Romans 12:3-6,10; Proverbs 27:2). They are to identify and call out one another’s gifts, strengths, and abilities. They are to build up each other‘s faith through study and common worship (Colossians 3:16; Ephesians 5:19)."
+"Any two Christians, with anything else but a common faith in Christ, can have a robust friendship, helping each other on their journey toward the new creation, as well as doing ministry together in the world.\
+"They do it through spiritual transparency. Christian friends are not only to honestly confess their own sense to each other (James 5:16), but they are to lovingly point out their friends since if he or she is blind to them (Romans 15:14). You should give your Christian friends “hunting licenses“ to confront you if you are failing to live in line with your commitments (Galatians 6:1). Christian friends are to stir one another up, even provoking one another to get them off dead center (Hebrews 10:24). This isn’t to happen infrequently but should happen at a very concrete level every day (Hebrews 3:13). Christian friends admit wrongs, offer or ask forgiveness (Ephesians 4:32), and take steps to reconcile when one disappoints another (Matthew 5:23ff; 18:15 ff).\
+"The other way is spiritual constancy. Christian friends bear each other’s burdens (Galatians 6:2). They should be there for each other through thick and thin (1 Thessalonians 5:11, 14–15), sharing their goods and their very lives with each other if there is need (Hebrews 13:16; Philippians 4:14; 2 Corinthians 9:13). Friends must encourage each other through honor and affirmation (Romans 12:3-6,10; Proverbs 27:2). They are to identify and call out one another’s gifts, strengths, and abilities. They are to build up each other‘s faith through study and common worship (Colossians 3:16; Ephesians 5:19)." (115)
+
+"Perhaps the richest and best relationships, however, are those that combine both the natural and the supernatural elements." (116, 2)
+
+"Friendship is a deep oneness that develops as two people, speaking the truth in love to each other, journey together to the same horizon." (116, 3)
+
+"In his redemptive work, Jesus is both Friend and Lover, and this is to be the model for spouses in marriage. Husband and wife are to be both lovers and friends to one another as Jesus is to us." (119, 2)
+
+"Within this Christian vision for marriage, here's what it means to fall in love. It is to look at another person and get a glimpse of the person God is creating, and to say, "I see who God is making you, and it excites me! I want to be part of that. I want to partner with you and God in the journey you are taking to his throne. And when we get there, I will look at your magnificence and say, 'I always knew you could be like this. I got glimpses of it on earth, but now look at you!'" Each spouse should see the great thing that Jesus is doing in the life of their mate through the Word, the gospel. Each spouse then should give him- or herself to be a vehicle for that work and envision the day that you will stand together before God, seeing each other presented in spotless beauty and glory." (121, 3)
+
+"What keeps the marriage going is your committment to your spouse's holiness." (123, 3)
+
+"Now we can see how marriage-as-friendship agrees so well with love-as-commitment." (123, 4)
+
+"Look for someone who understands you better than you do yourself, who makes you a better person just by being around them. And then explore whether that friendship could become a romance and a marriage." (126, 1)
 
 ` `  
 ` `  
