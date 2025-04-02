@@ -39,7 +39,7 @@ image: a.jpg
 
 "It is that you are so lost and flawed, so sinful, that Jesus had to die for you, but you are also so loved and valued that Jesus was glad to die for you. Now you are fully accepted and delighted in by the Father, not because you deserve it but only by free grace." (55, 5)
 
-"The main barrier to the development of a servant heart in marriage is what we touched on in the first chapter--the radical self-centeredness of the sinful human heart." (56, 4)
+"The main barrier to the development of a servant heart in marriage is what we touched on in the first chapter---the radical self-centeredness of the sinful human heart." (56, 4)
 
 "Self-centeredness is easily seen in the signs Paul lists: impatience, irritability, a lack of graciousness and kindness in speech, envious brooding on the better situations of others, and holding past injuries and hurts against others." (57, 3)
 
@@ -67,7 +67,7 @@ image: a.jpg
 
 "Do not waste time bothering whether you 'love' your neighbor; act as if you did." (100, 3, C.S. Lewis)
 
-"The more cruel you are, the more you will hate; and the more you hate, the more cruel you will become--and so on in a vicious circle forever." (101, 3, C.S. Lewis)
+"The more cruel you are, the more you will hate; and the more you hate, the more cruel you will become---and so on in a vicious circle forever." (101, 3, C.S. Lewis)
 
 "I had been loving them even when I didn't like them, and the result was that, slowly but surely, my emotions were catching up with my behavior. If you do not give up, but proceed to love the unlovely in a sustained way, they will eventually become lovely to you." (103, 1)
 
@@ -75,11 +75,11 @@ image: a.jpg
 
 "You do the acts of love, despite your lack of feeling. You may not feel tender, sympathetic, and eager to please, but in your actions you must *be* tender, understanding, forgiving, and helpful. And, if you do that, as time goes on you will not only get through the dry spells, but they will become less frequent and deep, and you will become more constant in your feelings. This is what can happen if you decide to love." (104, 3)
 
-"It is not surprising, then, that after children leave home, many marriages fall apart. Why? Because while the parents treated their relationship with their children as a covenant relationship--performing the actions of love until their feelings strengthened--they treated their marriages as a consumer relationship and withdrew their actions of love when they weren't having the feelings. As a result, after two decades, their marriages were empty while their love for their children remained strong." (108, 3)
+"It is not surprising, then, that after children leave home, many marriages fall apart. Why? Because while the parents treated their relationship with their children as a covenant relationship---performing the actions of love until their feelings strengthened---they treated their marriages as a consumer relationship and withdrew their actions of love when they weren't having the feelings. As a result, after two decades, their marriages were empty while their love for their children remained strong." (108, 3)
 
 #### Chapter 4: The Mission of Marriage
 
-"There are two features of real friendship--constancy and transparency." (112, 3)
+"There are two features of real friendship---constancy and transparency." (112, 3)
 
 "This means that friendships are discovered more than they are created at will. They arise between people who discover that they have common interests in and longings for the same things." (113, 1)
 
@@ -100,6 +100,38 @@ image: a.jpg
 "Now we can see how marriage-as-friendship agrees so well with love-as-commitment." (123, 4)
 
 "Look for someone who understands you better than you do yourself, who makes you a better person just by being around them. And then explore whether that friendship could become a romance and a marriage." (126, 1)
+
+#### Chapter 5: Loving the Stranger
+
+"What if you expected marriage to be about helping each other grow out of your sins and flaws into the new self God is creating?" (136, 2)
+
+"The merged life of marriage brings you into the closest, most inescapable contact with another person possible. And that means not only that you see each other close up, but that you are forced to deal with the flaws and sins of one another," (138, 2)
+
+"No one else is as inconvenienced and hurt by your flaws as your spouse is. And therefore your spouse becomes more keenly aware of what is wrong with you than anyone else ever has been." (139, 2)
+
+"But you must realize that it isn't ultimately your spouse who is exposing the sinfulness of your heart---it's marriage itself." (140, 2)
+
+"Give your spouse the right to talk to you about what is wrong with you." (140, 3)
+
+"I'm going to be like Jesus has been with us---accepting us in love but not allowing us to just destroy ourselves with sin." (142, 2)
+
+"When you envision the 'someone better,' you can think of the future version of the person to whom you are already married." (144, 3)
+
+"When you see the problems in each other, do you just want to run away, or do you find a desire to work on them together? If the second impulse is yours, then you have the makings of a marriage." (144, 4)
+
+"godly tantrum: not an emotional loss of temper but an unrelenting insistence on being heard." (145, 1)
+
+"Never abuse the primary love language. Never withhold it to hurt the other, for the hurt will go deep. A man who greatly values getting respect from his wife in public will not be able to take it when she mocks him in front of their friends." (155, 5)
+
+"at first love sweeps you up involuntarily, but eventually love is a deliberate choice. It will seem mechanical at first, he reiterated, but if both spouses do it together, eventually the experience of being loved richly and well will sweeten their lives." (157, 4)
+
+"The one person in the whole world you holds your heart in her hand, whose approval and affirmation you most long for and need, is the one who is hurt more deeply by your sins than anyone else on the planet." (162, 3)
+
+"when that love is withheld, the statement of the truth doesn't help---it destroys." (162, 3)
+
+"Only if we are very good at forgiving and very good at repenting can truth and love be kept together." (163, 5)
+
+"One of the most basic skills in marriage is the ability to tell the straight, unvarnished truth about what your spouse has done---and then, completely, unself-righteously, and joyously express forgiveness without a shred of superiority, without making the other person feel small." (165, 2)
 
 ` `  
 ` `  
