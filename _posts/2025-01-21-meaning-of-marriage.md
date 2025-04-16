@@ -133,6 +133,60 @@ image: a.jpg
 
 "One of the most basic skills in marriage is the ability to tell the straight, unvarnished truth about what your spouse has done---and then, completely, unself-righteously, and joyously express forgiveness without a shred of superiority, without making the other person feel small." (165, 2)
 
+#### Chapter 5: Loving the Stranger
+
+"What if you expected marriage to be about helping each toehr grow out of your sins and flaws into the new self God is creating?" (136, 2)
+
+"The merged life of marriage brings you into the closest, most inescapable contact with another person possible. And that means not only that you see each other close up, but that you are forced to deal with the flaws and sins of one another." (138, 2)
+
+"No one else is as inconvenienced and hurt by your flaws as your spouse is. And therefore your spouse becomes more keenly aware of what is wrong with you than anyone else ever has been." (139, 2)
+
+"But you must realize that it isn't ultimately your spouse who is exposing the sinfulness of your heart---it's marriage itself." (140, 2)
+
+"the only flaws that can enslave you are the ones that you are blind to." (140, 3)
+
+"Give your spouse the right to talk to you about what is wrong with you." (140, 3)
+
+"I'm going to be like Jesus has been with us---accepting us in love but not allowing us to just destroy ourselves with sin." (142, 2)
+
+"when you envision the 'someone better', you can think of the future version of the person to whom you are already married." (144, 3)
+
+"When you see the problems in each other, do you just want to run away, or do you find a desire to work on them together? If the second impulse is yours, then you have the makings of a marriage." (144, 4)
+
+"The power of truth that marriage has should hold no fear for you." (144, 4)
+
+"godly tantrum": "not an emotional loss of temper but an unrelenting insistence on being heard." (145, 1)
+
+"Marriage puts into your spouse's hand a massive power to reprogram your own self-appreciation." (147, 3)
+
+"Each of us heard the other one saying, 'I don't love you,' because each of us was failing to get love in the particular way we felt was emotionally valuable to us." (152, 2)
+
+"In the same way you learn to give your spouse love in the way he or she finds most emotionally valuable and powerful. That is the only way to bring the remaking and healing power of love into your spouse's life." (152, 3)
+
+"Never abuse the primary love language. Never withhold it to hurt the other, for the hurt will go deep." (155, 5)
+
+"At first love sweeps you up involuntarily, but eventually love is a deliverate choice. It will seem mechanical at first, he reiterated, but if both spouses do it together, eventually the experience of being loved richly and well will sweeten their lives." (157, 4)
+
+"The one person in the whole world who holds your heart in her hand, whose approval and affirmation you most long for and need, is the one who is hurt more deeply by your sins than anyone else on the planet" (162, 3)
+
+"when that love is withheld, the statement of the truth doesn't help---it destroys." (162, 3)
+
+"Only if we are very good at forgiving and very good at repenting can truth and love be kept together." (163, 5)
+
+#### Chapter 6: Embracing the Other
+
+"the relationship of the Father and the Son is a pattern for the relationship of husband to wife. The Son submits to the Father's headship with free, voluntary, and joyful eagerness, not out of coercion or inferiority. The Father's headship is acknowledged in reciprocal delight, respect, and love. There is no inequality of ability or dignity." (176, 1)
+
+"The strengths of gender-distinct leadership, creativity, and insight that women bring to the world, to name a few, are lost to the business world, romantic relationships, and even ministry within the church." (181, 2)
+
+"It is not simply that the other gender is different, it's that his or her differences *make no sense*. And once we come up against this wall of incomprehensibility, the sin in our heart tends to respond by assigning moral significance to what is simply a deep temperamental difference." (182, 3)
+
+"Therefore it is crucial that women who want to accept gender-differentiated roles within marriage find a husband who will truly be a *servant*-leader to match her as a strong helper." (184, 4)
+
+"Remember, this person is utterly unlike you. He acts differently, thinks differently, operates differently, and in some cases, dealing with him is not only frustrating and scary, but it's downright incomprehensible. But at a deeper level, you're finding out who you really are. You're seeing him as your other half. You see how God is completing you in your husband. The result of completion is personal ease." (189, 5)
+
+"Since both the headship role of a husband and the submission role as a wife are *servant* roles, one can always begin to serve without waiting for permission." (191, 3)
+
 ` `  
 ` `  
 
